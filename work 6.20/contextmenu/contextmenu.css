@@ -1,0 +1,50 @@
+a{
+    text-decoration: none;
+}
+#place{
+    height: 500px;
+    width: 500px;
+
+    background-color: antiquewhite;
+
+}
+#menu{
+    width : 100px;
+    height: 200px;
+    padding : 2px;
+
+    position : absolute;
+    visibility : hidden;
+    border: 1px solid brown;
+}
+#meuA{
+     height: 50px;
+     width: 100px;
+     text-align: center;
+     border-bottom: 1px solid cadetblue;
+    float: left;
+    line-height: 50px;
+ }
+#meuB{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    border-bottom: 1px solid cadetblue;
+    float: left;
+    line-height: 50px;
+}
+#meuC{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    border-bottom: 1px solid cadetblue;
+    float: left;
+    line-height: 50px;
+}
+#meuD{
+    height: 50px;
+    width: 100px;
+    text-align: center;
+    line-height: 50px;
+    float: left;
+}
