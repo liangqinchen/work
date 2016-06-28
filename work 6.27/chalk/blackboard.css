@@ -1,0 +1,20 @@
+#blackboard{
+
+    border: 10px solid brown;
+   background-color: silver;
+
+}
+#colorDiv{
+    width: 100px;
+    height:100px;
+    border-radius: 50%;
+    background-color: antiquewhite;
+    text-align: center;
+
+}
+#font{
+
+text-decoration: none;
+line-height: 100px;
+color: darkorchid;
+}
