@@ -1,0 +1,15 @@
+#placeP{
+    width: 620px;
+    overflow: hidden;
+}
+.img {
+    float: left;
+    margin: 2px;
+    width: 100px;
+    height: 80px;
+    background-size: cover;
+}
+#placeK{
+    float: right;
+    margin-right: 300px;
+}
