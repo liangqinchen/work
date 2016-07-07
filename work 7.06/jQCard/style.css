@@ -1,0 +1,22 @@
+.card {
+    width: 300px;
+    height: 300px;
+    display: inline-block;
+}
+
+#divA {
+    background-color: antiquewhite;
+}
+
+#divB {
+    background-color: red;
+}
+
+#divC{
+    background-color: greenyellow;
+}
+
+#divD {
+    background-color: deeppink;
+}
+
